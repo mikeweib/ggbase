@@ -77,6 +77,4 @@ typedef unsigned char uint8_t;
     gg_mutex_destroy(m);
 #endif
 
-
-
 #endif /* __GG_BASE_BASE_H__ */
